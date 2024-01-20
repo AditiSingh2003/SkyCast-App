@@ -85,8 +85,7 @@ API_KEY = 'your_openweathermap_api_key';
 
 # Video Demo
 
-
-
+https://github.com/AditiSingh2003/SkyCast-App/assets/97729662/e9d9d7c2-332d-45ad-bf3d-2edceebe7dcd
 
 
 ### Note
