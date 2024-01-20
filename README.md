@@ -77,11 +77,13 @@ API_KEY = 'your_openweathermap_api_key';
     ```
 # Preview of App
 
-<img src="https://github.com/AditiSingh2003/SkyCast-App/assets/97729662/f229530d-72b8-4738-a120-feac732240d8" alt="Image 1" width="300" height="600">
+<!-- Image 1 with height and width -->
+<img src="https://github.com/AditiSingh2003/SkyCast-App/assets/97729662/ce2e5491-9188-400b-b835-6bec87b1d857.png" alt="Image 1" width="300" height="600">
 
-<img src="https://github.com/AditiSingh2003/SkyCast-App/assets/97729662/6d5cbcc4-f423-47d3-9360-792dc02ddc14" alt="Image 2" width="300" height="600">
+<!-- Image 2 with height and width -->
+<img src="https://github.com/AditiSingh2003/SkyCast-App/assets/97729662/b5d9b958-8fa7-450b-94de-5fd388f99efc.png" alt="Image 2" width="300" height="600">
 
-
+# Video Demo
 
 
 
