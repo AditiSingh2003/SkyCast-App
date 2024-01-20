@@ -12,12 +12,22 @@ SkyCast is a user-friendly weather application designed to provide you with up-t
 
 Whether you're planning a trip, checking the daily forecast, or simply curious about the current weather conditions, SkyCast has you covered. Stay informed, stay prepared, and make the most of every day with our reliable weather app.
 
+# Preview of App
+
+<!-- Image 1 with height and width -->
+<img src="https://github.com/AditiSingh2003/SkyCast-App/assets/97729662/ce2e5491-9188-400b-b835-6bec87b1d857.png" alt="Image 1" width="300" height="600">
+
+<!-- Image 2 with height and width -->
+<img src="https://github.com/AditiSingh2003/SkyCast-App/assets/97729662/b5d9b958-8fa7-450b-94de-5fd388f99efc.png" alt="Image 2" width="300" height="600">
+
 ## Acknowledgements
 
  - [Open Weather API](https://openweathermap.org/api)
  - [UnSplash](https://unsplash.com)
 
+# Video Demo
 
+https://github.com/AditiSingh2003/SkyCast-App/assets/97729662/e9d9d7c2-332d-45ad-bf3d-2edceebe7dcd
 
 ## API Reference
 
@@ -75,17 +85,7 @@ API_KEY = 'your_openweathermap_api_key';
     ```bash
     flutter run
     ```
-# Preview of App
 
-<!-- Image 1 with height and width -->
-<img src="https://github.com/AditiSingh2003/SkyCast-App/assets/97729662/ce2e5491-9188-400b-b835-6bec87b1d857.png" alt="Image 1" width="300" height="600">
-
-<!-- Image 2 with height and width -->
-<img src="https://github.com/AditiSingh2003/SkyCast-App/assets/97729662/b5d9b958-8fa7-450b-94de-5fd388f99efc.png" alt="Image 2" width="300" height="600">
-
-# Video Demo
-
-https://github.com/AditiSingh2003/SkyCast-App/assets/97729662/e9d9d7c2-332d-45ad-bf3d-2edceebe7dcd
 
 
 ### Note
